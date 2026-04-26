@@ -192,6 +192,38 @@ This project demonstrates a complete real-world NLP workflow from data collectio
 
 ---
 
+
+
+### 2. project setup and utillits module
+- project template
+- setup the requierment 
+- configuer gcp
+- logging
+- exception
+- project workflow
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 👨‍💻 Author
 
 **Md Atik Hasan**  
